@@ -1,4 +1,4 @@
-.block.quote {
+.block.react1 {
     background-color: #ccc;
     padding: 0 0 24px;
     display: flex;
@@ -6,19 +6,19 @@
     margin: 1rem 0;
 }
 
-.block.quote blockquote {
+.block.react1 blockquote {
     margin: 16px;
     text-indent: 0;
 }
 
-.block.quote > div:last-child > div {
+.block.react1 > div:last-child > div {
     margin: 0 16px;
     font-size: small;
     font-style: italic;
     position: relative;
 }
 
-.block.quote > div:last-child > div::after {
+.block.react1 > div:last-child > div::after {
     content: "";
     display: block;
     position: absolute;

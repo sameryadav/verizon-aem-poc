@@ -237,13 +237,20 @@
   {
     "id": "react1",
     "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "authorName",
-        "label": "Author",
-        "value": "Test React Component"
-      }
-    ]
-  }
+       {
+         "component": "richtext",
+         "name": "react1",
+         "value": "",
+         "label": "react1",
+         "valueType": "string"
+       },
+       {
+         "component": "text",
+         "valueType": "string",
+         "name": "author",
+         "label": "Author",
+         "value": "Samar Yadav"
+       }
+     ]
+  },
 ]
