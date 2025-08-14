@@ -219,11 +219,11 @@
     "id": "react1",
     "fields": [
       {
-        "component": "reference",
-        "valueType": "string",
-        "name": "image",
-        "label": "Image",
-        "multi": false
+        "component": "richtext",
+        "name": "text",
+        "value": "Test React Component",
+        "label": "Text",
+        "valueType": "string"
       }
     ]
   }
