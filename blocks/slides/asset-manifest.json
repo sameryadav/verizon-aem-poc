@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/static/css/slide-builder-main.css",
+    "main.js": "/static/js/slide-builder-main.js",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/slide-builder-main.css",
+    "static/js/slide-builder-main.js"
+  ]
+}

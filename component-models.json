@@ -252,5 +252,24 @@
          "value": "Samar Yadav"
        }
      ]
+  },
+  {
+    "id": "slides",
+    "fields": [
+       {
+         "component": "richtext",
+         "name": "slides",
+         "value": "",
+         "label": "slides",
+         "valueType": "string"
+       },
+       {
+         "component": "text",
+         "valueType": "string",
+         "name": "author",
+         "label": "Author",
+         "value": "Samar Yadav"
+       }
+     ]
   }
 ]
