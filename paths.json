@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/verizon-aem-poc:/",
+    "/content/verizon-aem-poc/configuration:/.helix/config.json",
+    "/content/verizon-aem-poc/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/verizon-aem-poc/"
   ]
 }
