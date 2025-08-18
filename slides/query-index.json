@@ -6,7 +6,7 @@
       "description": "An introduction to our slide presentation system",
       "author": "Samar Yadav",
       "lastModified": "2024-01-15T10:30:00.000Z",
-      "image": "/icons/media_188fa5bcd003e5a2d56e7ad3ca233300c9e52f1e5.webp ",
+      "image": "https://publish-p8661-e624335.adobeaemcloud.com/content/dam/verizon-aem-poc/media_1d92670adcfb7a18a062e49fd7967f4e9f76d8a52.jpeg",
       "content": "Welcome to the Verizon AEM slide presentation system. This is your first slide."
     },
     {
@@ -15,7 +15,7 @@
       "description": "Key features of our platform",
       "author": "Samar Yadav",
       "lastModified": "2024-01-15T11:00:00.000Z",
-      "image": "/icons/media_14e918fa88c2a9a810fd454fa04f0bd152c01fed2.jpeg",
+      "image": "https://publish-p8661-e624335.adobeaemcloud.com/content/dam/verizon-aem-poc/media_14e918fa88c2a9a810fd454fa04f0bd152c01fed2.jpeg",
       "content": "Our platform offers dynamic content management, responsive design, and seamless integration."
     },
     {
@@ -24,7 +24,7 @@
       "description": "How to use the slide builder",
       "author": "Samar Yadav", 
       "lastModified": "2024-01-15T11:30:00.000Z",
-      "image": "/icons/media_1e744525e97292dcd074e9b1c7ab2cf47a048f292.jpeg",
+      "image": "https://publish-p8661-e624335.adobeaemcloud.com/content/dam/verizon-aem-poc/media_1e744525e97292dcd074e9b1c7ab2cf47a048f292.jpeg",
       "content": "Use the slide builder to create, edit, and manage your presentations with ease."
     }
   ],
