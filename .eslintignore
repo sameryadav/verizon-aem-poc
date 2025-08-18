@@ -1,2 +1,11 @@
-helix-importer-ui
-dompurify.min.js
+# Ignore minified/bundled files
+static/js/slide-builder-main.js
+scripts/dompurify.min.js
+
+# Ignore build artifacts
+node_modules/
+dist/
+build/
+
+# Ignore any other minified files
+**/*.min.js
